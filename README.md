@@ -1,3 +1,3 @@
 # MachineLearning
 Personal resources about machine learning
-Algoritmos equivalentes en Paytho, Octave, TensorFlow
+Algoritmos equivalentes en Paython, Octave, TensorFlow
